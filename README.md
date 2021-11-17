@@ -1,6 +1,6 @@
 # Interactive Web Visualizations Challenge
 
-![Bacteria by filterforge.com](Images/bacteria.jpg)
+(Images/bacteria.jpg)
 
 --- 
 
