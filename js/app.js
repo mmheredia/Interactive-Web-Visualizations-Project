@@ -66,7 +66,7 @@ function init() {
             };
         };
 
-        // Create empty list of ID string values to later populate
+        // Create empty list of OTU labels values to later populate
 
         var otuIDStrings = [];
 
@@ -136,7 +136,7 @@ function init() {
 
                 size: sampleValues,
 
-                color: sampleValues
+                color: otuIDs
 
             },
 
@@ -244,7 +244,7 @@ function updatePlotly() {
             };
         };
 
-        // Create empty list of ID string values to later populate 
+        // Create empty list of ID labels values to later populate 
 
         var otuIDStrings = [];
 
