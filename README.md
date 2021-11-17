@@ -2,7 +2,7 @@
 
 --- 
 
-This project consisted of building an interactive dashboard to explore a [Belly Button Biodiversity dataset](http://robdunnlab.com/projects/belly-button-biodiversity/), which catalogs the microbes that colonize human navels.
+This project consisted of building an interactive dashboard to explore a [Belly Button Biodiversity Dataset](http://robdunnlab.com/projects/belly-button-biodiversity/), which catalogs the microbes that colonize human navels.
 
 Using the D3.js JavaScript library, the sample.json file was read to use to create the following interactive diagrams. 
 
