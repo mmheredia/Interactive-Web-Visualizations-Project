@@ -377,5 +377,3 @@ function updatePlotly() {
 };
 
 init()
-
-// done!
