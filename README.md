@@ -6,6 +6,10 @@ This project consisted of building an interactive dashboard to explore a [Belly 
 
 Using the D3.js JavaScript library, the samples.json file was read to create the following interactive diagrams that compose the belly button biodiversity dashboard. 
 
+View the live dashboard here: https://mmheredia.github.io/Interactive-Web-Visualizations-Project/
+
+<img src="images/dashboard.jpg" width="100%" align="cemter"/>
+
 ---
 
 ## Demographic Info
